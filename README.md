@@ -1,2 +1,0 @@
-# Mojer
-opisr
